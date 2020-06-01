@@ -24,6 +24,7 @@
               "src/assets"
             ],
             "styles": [
+              "./node_modules/@angular/material/prebuilt-themes/indigo-pink.css",
               "src/styles.css"
             ],
             "scripts": []
@@ -88,6 +89,7 @@
               "src/assets"
             ],
             "styles": [
+              "./node_modules/@angular/material/prebuilt-themes/indigo-pink.css",
               "src/styles.css"
             ],
             "scripts": []
@@ -119,6 +121,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "agendaLive"
+    }
+  },
+  "defaultProject": "agendaLive",
+  "cli": {
+    "analytics": "28500163-7c0c-4f64-ba9d-a013f7573109"
+  }
 }
